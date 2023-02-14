@@ -1,6 +1,20 @@
 <!-- BEGIN_TF_DOCS -->
-## Requirements
 
+
+# Please follow this instruction to run the code:
+1) IAM API has to be enabled 
+2) credentials.json file need to update with your data project ID etc..
+3) Edit terraform.tfvars file need to update according to your environment 
+
+
+finally will go with 
+
+terraform init 
+
+terraform plan 
+
+terraform apply 
+## Requirements
 | Name | Version |
 |------|---------|
 | <a name="requirement_google"></a> [google](#requirement\_google) | 3.51.0 |
